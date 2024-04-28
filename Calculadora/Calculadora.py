@@ -32,7 +32,7 @@ def multiplicacion_conjuntos(conjuntos):
 
 def division_conjuntos(conjuntos):
   """
-  Calcula la división de todos los números en los conjuntos dados, de izquierda a derecha.
+  Calcula la división de los números en los conjuntos dados, de izquierda a derecha.
 
   Args:
     conjuntos: Una lista de listas de números.
